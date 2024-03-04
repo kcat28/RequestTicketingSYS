@@ -34,6 +34,7 @@ import javax.swing.table.DefaultTableModel;
  */
 public class AdminDashboard extends javax.swing.JFrame {
         ResultSet resultSet;
+         
     /**
      * Creates new form AdminDashboard
      */
@@ -450,7 +451,9 @@ public class AdminDashboard extends javax.swing.JFrame {
     }//GEN-LAST:event_exit_AdminDashboardMouseClicked
 
     private void REFRESHActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_REFRESHActionPerformed
+        
         tableretrieval();
+        
     }//GEN-LAST:event_REFRESHActionPerformed
 
     private void adminTableMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_adminTableMouseClicked
@@ -586,7 +589,8 @@ public class AdminDashboard extends javax.swing.JFrame {
              resultSet = statement.executeQuery(query);
              resultSet = statement.executeQuery(query);
 
-            DefaultTableModel model = (DefaultTableModel) adminTable.getModel();
+             DefaultTableModel model = (DefaultTableModel) adminTable.getModel();
+             model.setRowCount(0);
 
             while (resultSet.next()) {
             String TicketID = String.valueOf(resultSet.getInt(1));
