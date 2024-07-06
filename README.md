@@ -1,5 +1,8 @@
 # BTS1
-![image](https://github.com/kcat28/RequestTicketingSYS/assets/114682795/98c7bbff-4d41-4eb4-aa95-90b43a62e715)
-![image](https://github.com/kcat28/RequestTicketingSYS/assets/114682795/877077c0-ccf0-401b-ac3c-2f5b84cd45e3)
-![image](https://github.com/kcat28/RequestTicketingSYS/assets/114682795/14a467c7-ae37-4cde-81ab-5b09cd91084b)
+![image](https://github.com/kcat28/RequestTicketingSYS/assets/114682795/96a5b898-9d95-4ef3-a916-d72bddc5b5dc)
+![image](https://github.com/kcat28/RequestTicketingSYS/assets/114682795/6f11a945-dfd6-44b7-94cd-3933c6b71391)
+![image](https://github.com/kcat28/RequestTicketingSYS/assets/114682795/7599b19b-d88d-4ea6-8696-2769672b88d1)
+
+
+
 
